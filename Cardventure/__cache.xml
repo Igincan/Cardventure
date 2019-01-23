@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?><ArrayOfProcedureResult xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/CheckerServiceContract"><ProcedureResult><Data>File: \Cardventure\src\karty\Karta.java
+File: \Cardventure\src\karty\kuzlo\Hnis.java
+	 28: ')' is followed by whitespace.
+File: \Cardventure\src\karty\kuzlo\Nicitel.java
+File: \Cardventure\src\karty\kuzlo\Portal.java
+File: \Cardventure\src\karty\kuzlo\Vylepsovak.java
+	 8: Unused import - java.awt.Color.
+	 29: ')' is followed by whitespace.
+File: \Cardventure\src\karty\Kuzlo.java
+File: \Cardventure\src\karty\liecenie\Naplast.java
+File: \Cardventure\src\karty\liecenie\Obvaz.java
+File: \Cardventure\src\karty\Liecenie.java
+	 16: '{' is not preceded with whitespace.
+File: \Cardventure\src\karty\obrana\Doska.java
+File: \Cardventure\src\karty\obrana\Stit.java
+File: \Cardventure\src\karty\Obrana.java
+File: \Cardventure\src\karty\rozhrania\IDegradovatelna.java
+File: \Cardventure\src\karty\rozhrania\IVylepsitelna.java
+File: \Cardventure\src\karty\utok\Ohen.java
+File: \Cardventure\src\karty\utok\Palica.java
+File: \Cardventure\src\karty\utok\Plamienok.java
+File: \Cardventure\src\karty\Utok.java
+File: \Cardventure\src\levely\Level.java
+File: \Cardventure\src\levely\Prvy.java
+	 8: Unused import - karty.Liecenie.
+	 9: Unused import - karty.Obrana.
+	 10: Unused import - karty.Utok.
+File: \Cardventure\src\zaklad\Hra.java
+File: \Cardventure\src\zaklad\Hrac.java
+File: \Cardventure\src\zaklad\Mapa.java
+File: \Cardventure\src\zaklad\MojKontajner.java
+	 72: ')' is followed by whitespace.
+File: \Cardventure\src\zaklad\Okno.java
+	 239: '}' is not followed by whitespace.
+	 242: '{' is not followed by whitespace.
+	 245: '}' is not followed by whitespace.
+	 247: '{' is not followed by whitespace.
+	 249: '}' is not followed by whitespace.
+	 251: '{' is not followed by whitespace.
+	 254: '}' is not followed by whitespace.
+	 256: '{' is not followed by whitespace.
+	 259: '}' is not followed by whitespace.
+	 261: '{' is not followed by whitespace.
+	 313: '}' is not followed by whitespace.
+	 315: '{' is not followed by whitespace.
+	 318: '}' is not followed by whitespace.
+	 451: '+' is not preceded with whitespace.
+	 455: '+' is not preceded with whitespace.
+	 479: Array brackets at illegal position.
+	 506: Inner assignments should be avoided.
+</Data><ExtraData i:nil="true" /><Name>Checkstyle</Name><Overall>25 warnings</Overall><ProcedureId>Inf_Checker_Service.Procedures.CheckstyleProcedure, Inf Checker Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</ProcedureId><Type>Text</Type></ProcedureResult></ArrayOfProcedureResult>
